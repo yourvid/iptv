@@ -1,19 +1,21 @@
 #EXTM3U
-#EXTINF:-1 group-title="足球主播",袁甲
+#EXTINF:-1 group-title="抖音",袁甲
 http://192.168.5.170:35455/douyin/564818396281
-#EXTINF:-1 group-title="足球主播",足球七哥
+#EXTINF:-1 group-title="抖音",足球七哥
 http://192.168.5.170:35455/douyin/15795701629
-#EXTINF:-1 group-title="足球主播",王大祺
+#EXTINF:-1 group-title="抖音",王大祺
 http://192.168.5.170:35455/douyin/641825659808
-#EXTINF:-1 group-title="足球主播",贪吃蛇
+#EXTINF:-1 group-title="抖音",贪吃蛇
 http://192.168.5.170:35455/douyin/268221098188
-#EXTINF:-1 group-title="足球主播",大薇薇
+#EXTINF:-1 group-title="抖音",大薇薇
 http://192.168.5.170:35455/douyin/465358832552
-#EXTINF:-1 group-title="足球主播",爱踢球的杨同学
+#EXTINF:-1 group-title="抖音",爱踢球的杨同学
 http://192.168.5.170:35455/douyin/199256144109
-#EXTINF:-1 group-title="足球主播",董路
+#EXTINF:-1 group-title="抖音",董路
 http://192.168.5.170:35455/douyin/759939177519
-#EXTINF:-1 group-title="飞机拍客",小曾
+#EXTINF:-1 group-title="抖音",小曾
 http://192.168.5.170:35455/douyin/170973589479
+#EXTINF:-1 group-title="虎牙",一诺台球
+http://192.168.5.170:35455/huya/880214
 
 
