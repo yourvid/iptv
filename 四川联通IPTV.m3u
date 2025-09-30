@@ -1,0 +1,640 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="四川卫视4K50P" tvg-name="四川卫视4K50P" tvg-logo="/scdmspic/20250926/20250926155755776.jpg" group-title="全部",四川卫视4K50P
+http://10.10.10.1:4022/rtp/239.0.0.203:5140
+
+#EXTINF:-1 tvg-id="湖南卫视4K50P" tvg-name="湖南卫视4K50P" tvg-logo="/scdmspic/20250926/20250926155814126.jpg" group-title="全部",湖南卫视4K50P
+http://10.10.10.1:4022/rtp/239.0.0.204:5140
+
+#EXTINF:-1 tvg-id="江苏卫视4K50P" tvg-name="江苏卫视4K50P" tvg-logo="/scdmspic/20250926/20250926155909422.jpg" group-title="全部",江苏卫视4K50P
+http://10.10.10.1:4022/rtp/239.0.0.205:5140
+
+#EXTINF:-1 tvg-id="浙江卫视4K50P" tvg-name="浙江卫视4K50P" tvg-logo="/scdmspic/20250926/20250926155917923.jpg" group-title="全部",浙江卫视4K50P
+http://10.10.10.1:4022/rtp/239.0.0.206:5140
+
+#EXTINF:-1 tvg-id="东方卫视4K50P" tvg-name="东方卫视4K50P" tvg-logo="/scdmspic/20250926/20250926155925825.jpg" group-title="全部",东方卫视4K50P
+http://10.10.10.1:4022/rtp/239.0.0.207:5140
+
+#EXTINF:-1 tvg-id="山东卫视4K50P" tvg-name="山东卫视4K50P" tvg-logo="/scdmspic/20250926/20250926160030612.jpg" group-title="全部",山东卫视4K50P
+http://10.10.10.1:4022/rtp/239.0.0.208:5140
+
+#EXTINF:-1 tvg-id="CCTV-1高清" tvg-name="CCTV-1高清" tvg-logo="/scdmspic/20201015/20201015034842988.jpg" group-title="全部",CCTV-1高清
+http://10.10.10.1:4022/rtp/239.0.0.10:5140
+
+#EXTINF:-1 tvg-id="CCTV-2高清" tvg-name="CCTV-2高清" tvg-logo="/scdmspic/20201015/20201015035032936.jpg" group-title="全部",CCTV-2高清
+http://10.10.10.1:4022/rtp/239.0.0.11:5140
+
+#EXTINF:-1 tvg-id="CCTV-3高清" tvg-name="CCTV-3高清" tvg-logo="/scdmspic/20201015/20201015035246448.jpg" group-title="全部",CCTV-3高清
+http://10.10.10.1:4022/rtp/239.0.0.12:5140
+
+#EXTINF:-1 tvg-id="CCTV-4高清" tvg-name="CCTV-4高清" tvg-logo="/scdmspic/20201015/20201015035416977.jpg" group-title="全部",CCTV-4高清
+http://10.10.10.1:4022/rtp/239.0.0.13:5140
+
+#EXTINF:-1 tvg-id="CCTV-5高清" tvg-name="CCTV-5高清" tvg-logo="/scdmspic/20201015/20201015035539969.jpg" group-title="全部",CCTV-5高清
+http://10.10.10.1:4022/rtp/239.0.0.14:5140
+
+#EXTINF:-1 tvg-id="CCTV-6高清" tvg-name="CCTV-6高清" tvg-logo="/scdmspic/20201015/20201015035714882.jpg" group-title="全部",CCTV-6高清
+http://10.10.10.1:4022/rtp/239.0.0.15:5140
+
+#EXTINF:-1 tvg-id="CCTV-7高清" tvg-name="CCTV-7高清" tvg-logo="/scdmspic/20201015/20201015035821613.jpg" group-title="全部",CCTV-7高清
+http://10.10.10.1:4022/rtp/239.0.0.16:5140
+
+#EXTINF:-1 tvg-id="CCTV-8高清" tvg-name="CCTV-8高清" tvg-logo="/scdmspic/20201015/20201015040001100.jpg" group-title="全部",CCTV-8高清
+http://10.10.10.1:4022/rtp/239.0.0.17:5140
+
+#EXTINF:-1 tvg-id="CCTV-9高清" tvg-name="CCTV-9高清" tvg-logo="/scdmspic/20201015/20201015040151442.jpg" group-title="全部",CCTV-9高清
+http://10.10.10.1:4022/rtp/239.0.0.18:5140
+
+#EXTINF:-1 tvg-id="CCTV-10高清" tvg-name="CCTV-10高清" tvg-logo="/scdmspic/20201015/20201015040321828.jpg" group-title="全部",CCTV-10高清
+http://10.10.10.1:4022/rtp/239.0.0.19:5140
+
+#EXTINF:-1 tvg-id="CCTV-11高清" tvg-name="CCTV-11高清" tvg-logo="/scdmspic/20210428/20210428145259117.jpg" group-title="全部",CCTV-11高清
+http://10.10.10.1:4022/rtp/239.0.0.187:5140
+
+#EXTINF:-1 tvg-id="CCTV-12高清" tvg-name="CCTV-12高清" tvg-logo="/scdmspic/20201015/20201015040639076.jpg" group-title="全部",CCTV-12高清
+http://10.10.10.1:4022/rtp/239.0.0.20:5140
+
+#EXTINF:-1 tvg-id="CCTV-13高清" tvg-name="CCTV-13高清" tvg-logo="/scdmspic/20210804/20210804092044257.jpg" group-title="全部",CCTV-13高清
+http://10.10.10.1:4022/rtp/239.0.0.190:5140
+
+#EXTINF:-1 tvg-id="CCTV-14高清" tvg-name="CCTV-14高清" tvg-logo="/scdmspic/20201015/20201015040950866.jpg" group-title="全部",CCTV-14高清
+http://10.10.10.1:4022/rtp/239.0.0.21:5140
+
+#EXTINF:-1 tvg-id="CCTV-15高清" tvg-name="CCTV-15高清" tvg-logo="/scdmspic/20210428/20210428145240582.jpg" group-title="全部",CCTV-15高清
+http://10.10.10.1:4022/rtp/239.0.0.188:5140
+
+#EXTINF:-1 tvg-id="CCTV-17高清" tvg-name="CCTV-17高清" tvg-logo="/scdmspic/20201015/20201015041244872.jpg" group-title="全部",CCTV-17高清
+http://10.10.10.1:4022/rtp/239.0.0.152:5140
+
+#EXTINF:-1 tvg-id="四川卫视高清" tvg-name="四川卫视高清" tvg-logo="/scdmspic/20201015/20201015041409037.jpg" group-title="全部",四川卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.1:5140
+
+#EXTINF:-1 tvg-id="CCTV-5+高清" tvg-name="CCTV-5+高清" tvg-logo="/scdmspic/20201015/20201015041126936.jpg" group-title="全部",CCTV-5+高清
+http://10.10.10.1:4022/rtp/239.0.0.22:5140
+
+#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="/scdmspic/20250403/20250403140640319.jpg" group-title="全部",CCTV-4K
+http://10.10.10.1:4022/rtp/239.0.0.184:5140
+
+#EXTINF:-1 tvg-id="SCTV-2高清" tvg-name="SCTV-2高清" tvg-logo="/scdmspic/20201015/20201015041527535.jpg" group-title="全部",SCTV-2高清
+http://10.10.10.1:4022/rtp/239.0.0.2:5140
+
+#EXTINF:-1 tvg-id="SCTV-3高清" tvg-name="SCTV-3高清" tvg-logo="/scdmspic/20201015/20201015041939112.jpg" group-title="全部",SCTV-3高清
+http://10.10.10.1:4022/rtp/239.0.0.3:5140
+
+#EXTINF:-1 tvg-id="SCTV-4高清" tvg-name="SCTV-4高清" tvg-logo="/scdmspic/20201015/20201015042108262.jpg" group-title="全部",SCTV-4高清
+http://10.10.10.1:4022/rtp/239.0.0.4:5140
+
+#EXTINF:-1 tvg-id="SCTV-5高清" tvg-name="SCTV-5高清" tvg-logo="/scdmspic/20201015/20201015042233486.jpg" group-title="全部",SCTV-5高清
+http://10.10.10.1:4022/rtp/239.0.0.5:5140
+
+#EXTINF:-1 tvg-id="SCTV-6高清" tvg-name="SCTV-6高清" tvg-logo="/scdmspic/20201015/20201015042448415.jpg" group-title="全部",SCTV-6高清
+http://10.10.10.1:4022/rtp/239.0.0.6:5140
+
+#EXTINF:-1 tvg-id="SCTV-7高清" tvg-name="SCTV-7高清" tvg-logo="/scdmspic/20201015/20201015042623527.jpg" group-title="全部",SCTV-7高清
+http://10.10.10.1:4022/rtp/239.0.0.7:5140
+
+#EXTINF:-1 tvg-id="SCTV-科教高清" tvg-name="SCTV-科教高清" tvg-logo="/scdmspic/20210208/20210208090951662.jpg" group-title="全部",SCTV-科教高清
+http://10.10.10.1:4022/rtp/239.0.0.186:5140
+
+#EXTINF:-1 tvg-id="SCTV-9高清" tvg-name="SCTV-9高清" tvg-logo="/scdmspic/20201015/20201015042735531.jpg" group-title="全部",SCTV-9高清
+http://10.10.10.1:4022/rtp/239.0.0.8:5140
+
+#EXTINF:-1 tvg-id="峨眉电影高清" tvg-name="峨眉电影高清" tvg-logo="/scdmspic/20201015/20201015042850063.jpg" group-title="全部",峨眉电影高清
+http://10.10.10.1:4022/rtp/239.0.0.9:5140
+
+#EXTINF:-1 tvg-id="康巴卫视高清" tvg-name="康巴卫视高清" tvg-logo="/scdmspic/20201015/20201015043055651.jpg" group-title="全部",康巴卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.175:5140
+
+#EXTINF:-1 tvg-id="湖南卫视高清" tvg-name="湖南卫视高清" tvg-logo="/scdmspic/20201015/20201015031859851.jpg" group-title="全部",湖南卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.68:5140
+
+#EXTINF:-1 tvg-id="浙江卫视高清" tvg-name="浙江卫视高清" tvg-logo="/scdmspic/20201015/20201015033647823.jpg" group-title="全部",浙江卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.61:5140
+
+#EXTINF:-1 tvg-id="江苏卫视高清" tvg-name="江苏卫视高清" tvg-logo="/scdmspic/20201015/20201015033820811.jpg" group-title="全部",江苏卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.60:5140
+
+#EXTINF:-1 tvg-id="东方卫视高清" tvg-name="东方卫视高清" tvg-logo="/scdmspic/20201015/20201015034123660.jpg" group-title="全部",东方卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.58:5140
+
+#EXTINF:-1 tvg-id="北京卫视高清" tvg-name="北京卫视高清" tvg-logo="/scdmspic/20201015/20201015034300471.jpg" group-title="全部",北京卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.52:5140
+
+#EXTINF:-1 tvg-id="辽宁卫视高清" tvg-name="辽宁卫视高清" tvg-logo="/scdmspic/20201015/20201015034455064.jpg" group-title="全部",辽宁卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.56:5140
+
+#EXTINF:-1 tvg-id="深圳卫视高清" tvg-name="深圳卫视高清" tvg-logo="/scdmspic/20201221/20201221152448567.jpg" group-title="全部",深圳卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.71:5140
+
+#EXTINF:-1 tvg-id="天津卫视高清" tvg-name="天津卫视高清" tvg-logo="/scdmspic/20201015/20201015041343633.jpg" group-title="全部",天津卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.54:5140
+
+#EXTINF:-1 tvg-id="山东卫视高清" tvg-name="山东卫视高清" tvg-logo="/scdmspic/20201015/20201015041417201.jpg" group-title="全部",山东卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.66:5140
+
+#EXTINF:-1 tvg-id="广东卫视高清" tvg-name="广东卫视高清" tvg-logo="/scdmspic/20201015/20201015041534522.jpg" group-title="全部",广东卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.70:5140
+
+#EXTINF:-1 tvg-id="湖北卫视高清" tvg-name="湖北卫视高清" tvg-logo="/scdmspic/20201015/20201015041652782.jpg" group-title="全部",湖北卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.67:5140
+
+#EXTINF:-1 tvg-id="黑龙江卫视高清" tvg-name="黑龙江卫视高清" tvg-logo="/scdmspic/20201015/20201015041959676.jpg" group-title="全部",黑龙江卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.57:5140
+
+#EXTINF:-1 tvg-id="安徽卫视高清" tvg-name="安徽卫视高清" tvg-logo="/scdmspic/20201015/20201015042117400.jpg" group-title="全部",安徽卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.65:5140
+
+#EXTINF:-1 tvg-id="重庆卫视高清" tvg-name="重庆卫视高清" tvg-logo="/scdmspic/20201015/20201015042249912.jpg" group-title="全部",重庆卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.72:5140
+
+#EXTINF:-1 tvg-id="贵州卫视高清" tvg-name="贵州卫视高清" tvg-logo="/scdmspic/20201015/20201015042410312.jpg" group-title="全部",贵州卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.64:5140
+
+#EXTINF:-1 tvg-id="江西卫视高清" tvg-name="江西卫视高清" tvg-logo="/scdmspic/20201015/20201015042527798.jpg" group-title="全部",江西卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.63:5140
+
+#EXTINF:-1 tvg-id="河北卫视高清" tvg-name="河北卫视高清" tvg-logo="/scdmspic/20201015/20201015042645169.jpg" group-title="全部",河北卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.55:5140
+
+#EXTINF:-1 tvg-id="东南卫视高清" tvg-name="东南卫视高清" tvg-logo="/scdmspic/20201015/20201015042827268.jpg" group-title="全部",东南卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.62:5140
+
+#EXTINF:-1 tvg-id="河南卫视高清" tvg-name="河南卫视高清" tvg-logo="/scdmspic/20210129/20210129143512288.jpg" group-title="全部",河南卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.182:5140
+
+#EXTINF:-1 tvg-id="广西卫视高清" tvg-name="广西卫视高清" tvg-logo="/scdmspic/20210208/20210208090903581.jpg" group-title="全部",广西卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.185:5140
+
+#EXTINF:-1 tvg-id="吉林卫视高清" tvg-name="吉林卫视高清" tvg-logo="/scdmspic/20210804/20210804092142734.jpg" group-title="全部",吉林卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.191:5140
+
+#EXTINF:-1 tvg-id="甘肃卫视高清" tvg-name="甘肃卫视高清" tvg-logo="/scdmspic/20210804/20210804092123824.jpg" group-title="全部",甘肃卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.192:5140
+
+#EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="/scdmspic/20230512/20230512151741392.jpg" group-title="全部",中国交通
+http://10.10.10.1:4022/rtp/239.0.0.143:5140
+
+#EXTINF:-1 tvg-id="云南卫视高清" tvg-name="云南卫视高清" tvg-logo="/scdmspic/20230919/20230919093053030.jpg" group-title="全部",云南卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.74:5140
+
+#EXTINF:-1 tvg-id="陕西卫视高清" tvg-name="陕西卫视高清" tvg-logo="/scdmspic/20240524/20240524165559912.jpg" group-title="全部",陕西卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.53:5140
+
+#EXTINF:-1 tvg-id="金鹰纪实高清" tvg-name="金鹰纪实高清" tvg-logo="/scdmspic/20201015/20201015043327279.jpg" group-title="全部",金鹰纪实高清
+http://10.10.10.1:4022/rtp/239.0.0.69:5140
+
+#EXTINF:-1 tvg-id="北京纪实科教高清" tvg-name="北京纪实科教高清" tvg-logo="/scdmspic/20240524/20240524165505336.jpg" group-title="全部",北京纪实科教高清
+http://10.10.10.1:4022/rtp/239.0.0.77:5140
+
+#EXTINF:-1 tvg-id="中国教育频道" tvg-name="中国教育频道" tvg-logo="/scdmspic/20201015/20201015045247477.jpg" group-title="全部",中国教育频道
+http://10.10.10.1:4022/rtp/239.0.0.51:5140
+
+#EXTINF:-1 tvg-id="CGTN-英语高清" tvg-name="CGTN-英语高清" tvg-logo="/scdmspic/20240906/20240906140051961.jpg" group-title="全部",CGTN-英语高清
+http://10.10.10.1:4022/rtp/239.0.0.49:5140
+
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="/scdmspic/20211122/20211122093433374.jpg" group-title="全部",厦门卫视
+http://10.10.10.1:4022/rtp/239.0.0.194:5140
+
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="/scdmspic/20211122/20211122093515611.jpg" group-title="全部",三沙卫视
+http://10.10.10.1:4022/rtp/239.0.0.195:5140
+
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="/scdmspic/20201015/20201015004448480.jpg" group-title="全部",山西卫视
+http://10.10.10.1:4022/rtp/239.0.0.78:5140
+
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="/scdmspic/20221213/20221213172744286.jpg" group-title="全部",青海卫视
+http://10.10.10.1:4022/rtp/239.0.0.108:5140
+
+#EXTINF:-1 tvg-id="宁夏卫视高清" tvg-name="宁夏卫视高清" tvg-logo="/scdmspic/20250818/20250818174302770.jpg" group-title="全部",宁夏卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.35:5140
+
+#EXTINF:-1 tvg-id="新疆卫视高清" tvg-name="新疆卫视高清" tvg-logo="/scdmspic/20250730/20250730113812097.jpg" group-title="全部",新疆卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.38:5140
+
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="/scdmspic/20221213/20221213172541102.jpg" group-title="全部",内蒙古卫视
+http://10.10.10.1:4022/rtp/239.0.0.79:5140
+
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="/scdmspic/20221213/20221213172609535.jpg" group-title="全部",海南卫视
+http://10.10.10.1:4022/rtp/239.0.0.100:5140
+
+#EXTINF:-1 tvg-id="西藏卫视高清" tvg-name="西藏卫视高清" tvg-logo="/scdmspic/20250730/20250730113756355.jpg" group-title="全部",西藏卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.39:5140
+
+#EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="/scdmspic/20221213/20221213172704326.jpg" group-title="全部",安多卫视
+http://10.10.10.1:4022/rtp/239.0.0.109:5140
+
+#EXTINF:-1 tvg-id="兵团卫视高清" tvg-name="兵团卫视高清" tvg-logo="/scdmspic/20250730/20250730113842605.jpg" group-title="全部",兵团卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.41:5140
+
+#EXTINF:-1 tvg-id="西藏藏语频道" tvg-name="西藏藏语频道" tvg-logo="/scdmspic/20201015/20201015010131466.jpg" group-title="全部",西藏藏语频道
+http://10.10.10.1:4022/rtp/239.0.0.105:5140
+
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="/scdmspic/20201015/20201015030603181.jpg" group-title="全部",金鹰卡通
+http://10.10.10.1:4022/rtp/239.0.0.95:5140
+
+#EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="/scdmspic/20201015/20201015030944742.jpg" group-title="全部",卡酷动画
+http://10.10.10.1:4022/rtp/239.0.0.75:5140
+
+#EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV-2" tvg-logo="/scdmspic/20220114/20220114102422627.jpg" group-title="全部",CETV-2
+http://10.10.10.1:4022/rtp/239.0.0.196:5140
+
+#EXTINF:-1 tvg-id="CETV-4高清" tvg-name="CETV-4高清" tvg-logo="/scdmspic/20241014/20241014173553886.jpg" group-title="全部",CETV-4高清
+http://10.10.10.1:4022/rtp/239.0.0.98:5140
+
+#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="/scdmspic/20220114/20220114102502284.jpg" group-title="全部",山东教育
+http://10.10.10.1:4022/rtp/239.0.0.197:5140
+
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="/scdmspic/20230919/20230919093144509.jpg" group-title="全部",延边卫视
+http://10.10.10.1:4022/rtp/239.0.0.76:5140
+
+#EXTINF:-1 tvg-id="CHC家庭影院高清" tvg-name="CHC家庭影院高清" tvg-logo="/scdmspic/20240115/20240115150647018.jpg" group-title="全部",CHC家庭影院高清
+http://10.10.10.1:4022/rtp/239.0.0.23:5140
+
+#EXTINF:-1 tvg-id="CHC动作影院高清" tvg-name="CHC动作影院高清" tvg-logo="/scdmspic/20240115/20240115150729779.jpg" group-title="全部",CHC动作影院高清
+http://10.10.10.1:4022/rtp/239.0.0.24:5140
+
+#EXTINF:-1 tvg-id="CHC高清影院高清" tvg-name="CHC高清影院高清" tvg-logo="/scdmspic/20240430/20240430142613923.jpg" group-title="全部",CHC高清影院高清
+http://10.10.10.1:4022/rtp/239.0.0.25:5140
+
+#EXTINF:-1 tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="/scdmspic/20250403/20250403140622388.jpg" group-title="全部",欢笑剧场4K
+http://10.10.10.1:4022/rtp/239.0.0.201:5140
+
+#EXTINF:-1 tvg-id="精彩影视高清" tvg-name="精彩影视高清" tvg-logo="/scdmspic/20240115/20240115150824621.jpg" group-title="全部",精彩影视高清
+http://10.10.10.1:4022/rtp/239.0.0.26:5140
+
+#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="/scdmspic/20240115/20240115150844614.jpg" group-title="全部",老故事
+http://10.10.10.1:4022/rtp/239.0.0.27:5140
+
+#EXTINF:-1 tvg-id="动漫秀场高清" tvg-name="动漫秀场高清" tvg-logo="/scdmspic/20240115/20240115150909567.jpg" group-title="全部",动漫秀场高清
+http://10.10.10.1:4022/rtp/239.0.0.28:5140
+
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="/scdmspic/20240115/20240115150935764.jpg" group-title="全部",中学生
+http://10.10.10.1:4022/rtp/239.0.0.29:5140
+
+#EXTINF:-1 tvg-id="乐游高清" tvg-name="乐游高清" tvg-logo="/scdmspic/20240115/20240115152549416.jpg" group-title="全部",乐游高清
+http://10.10.10.1:4022/rtp/239.0.0.30:5140
+
+#EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="/scdmspic/20240116/20240116092924737.jpg" group-title="全部",书画
+http://10.10.10.1:4022/rtp/239.0.0.31:5140
+
+#EXTINF:-1 tvg-id="金色学堂高清" tvg-name="金色学堂高清" tvg-logo="/scdmspic/20240115/20240115150955944.jpg" group-title="全部",金色学堂高清
+http://10.10.10.1:4022/rtp/239.0.0.32:5140
+
+#EXTINF:-1 tvg-id="法治天地高清" tvg-name="法治天地高清" tvg-logo="/scdmspic/20240115/20240115151006052.jpg" group-title="全部",法治天地高清
+http://10.10.10.1:4022/rtp/239.0.0.33:5140
+
+#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="/scdmspic/20240116/20240116092858311.jpg" group-title="全部",财富天下
+http://10.10.10.1:4022/rtp/239.0.0.34:5140
+
+#EXTINF:-1 tvg-id="茶频道高清" tvg-name="茶频道高清" tvg-logo="/scdmspic/20240115/20240115151029370.jpg" group-title="全部",茶频道高清
+http://10.10.10.1:4022/rtp/239.0.0.36:5140
+
+#EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="/scdmspic/20240115/20240115151643507.jpg" group-title="全部",先锋乒羽
+http://10.10.10.1:4022/rtp/239.0.0.37:5140
+
+#EXTINF:-1 tvg-id="快乐垂钓高清" tvg-name="快乐垂钓高清" tvg-logo="/scdmspic/20240115/20240115151139254.jpg" group-title="全部",快乐垂钓高清
+http://10.10.10.1:4022/rtp/239.0.0.40:5140
+
+#EXTINF:-1 tvg-id="北京卫视4K-25P" tvg-name="北京卫视4K-25P" tvg-logo="/scdmspic/20250403/20250403140659717.jpg" group-title="全部",北京卫视4K-25P
+http://10.10.10.1:4022/rtp/239.0.0.198:5140
+
+#EXTINF:-1 tvg-id="深圳卫视4K-25P" tvg-name="深圳卫视4K-25P" tvg-logo="/scdmspic/20250627/20250627164748065.jpg" group-title="全部",深圳卫视4K-25P
+http://10.10.10.1:4022/rtp/239.0.0.199:5140
+
+#EXTINF:-1 tvg-id="广东卫视4K-25P" tvg-name="广东卫视4K-25P" tvg-logo="/scdmspic/20250627/20250627164801247.jpg" group-title="全部",广东卫视4K-25P
+http://10.10.10.1:4022/rtp/239.0.0.200:5140
+
+#EXTINF:-1 tvg-id="CCTV-1高清" tvg-name="CCTV-1高清" tvg-logo="/scdmspic/20201015/20201015034842988.jpg" group-title="央视频道",CCTV-1高清
+http://10.10.10.1:4022/rtp/239.0.0.10:5140
+
+#EXTINF:-1 tvg-id="CCTV-2高清" tvg-name="CCTV-2高清" tvg-logo="/scdmspic/20201015/20201015035032936.jpg" group-title="央视频道",CCTV-2高清
+http://10.10.10.1:4022/rtp/239.0.0.11:5140
+
+#EXTINF:-1 tvg-id="CCTV-3高清" tvg-name="CCTV-3高清" tvg-logo="/scdmspic/20201015/20201015035246448.jpg" group-title="央视频道",CCTV-3高清
+http://10.10.10.1:4022/rtp/239.0.0.12:5140
+
+#EXTINF:-1 tvg-id="CCTV-4高清" tvg-name="CCTV-4高清" tvg-logo="/scdmspic/20201015/20201015035416977.jpg" group-title="央视频道",CCTV-4高清
+http://10.10.10.1:4022/rtp/239.0.0.13:5140
+
+#EXTINF:-1 tvg-id="CCTV-5高清" tvg-name="CCTV-5高清" tvg-logo="/scdmspic/20201015/20201015035539969.jpg" group-title="央视频道",CCTV-5高清
+http://10.10.10.1:4022/rtp/239.0.0.14:5140
+
+#EXTINF:-1 tvg-id="CCTV-6高清" tvg-name="CCTV-6高清" tvg-logo="/scdmspic/20201015/20201015035714882.jpg" group-title="央视频道",CCTV-6高清
+http://10.10.10.1:4022/rtp/239.0.0.15:5140
+
+#EXTINF:-1 tvg-id="CCTV-7高清" tvg-name="CCTV-7高清" tvg-logo="/scdmspic/20201015/20201015035821613.jpg" group-title="央视频道",CCTV-7高清
+http://10.10.10.1:4022/rtp/239.0.0.16:5140
+
+#EXTINF:-1 tvg-id="CCTV-8高清" tvg-name="CCTV-8高清" tvg-logo="/scdmspic/20201015/20201015040001100.jpg" group-title="央视频道",CCTV-8高清
+http://10.10.10.1:4022/rtp/239.0.0.17:5140
+
+#EXTINF:-1 tvg-id="CCTV-9高清" tvg-name="CCTV-9高清" tvg-logo="/scdmspic/20201015/20201015040151442.jpg" group-title="央视频道",CCTV-9高清
+http://10.10.10.1:4022/rtp/239.0.0.18:5140
+
+#EXTINF:-1 tvg-id="CCTV-10高清" tvg-name="CCTV-10高清" tvg-logo="/scdmspic/20201015/20201015040321828.jpg" group-title="央视频道",CCTV-10高清
+http://10.10.10.1:4022/rtp/239.0.0.19:5140
+
+#EXTINF:-1 tvg-id="CCTV-11高清" tvg-name="CCTV-11高清" tvg-logo="/scdmspic/20210428/20210428145259117.jpg" group-title="央视频道",CCTV-11高清
+http://10.10.10.1:4022/rtp/239.0.0.187:5140
+
+#EXTINF:-1 tvg-id="CCTV-12高清" tvg-name="CCTV-12高清" tvg-logo="/scdmspic/20201015/20201015040639076.jpg" group-title="央视频道",CCTV-12高清
+http://10.10.10.1:4022/rtp/239.0.0.20:5140
+
+#EXTINF:-1 tvg-id="CCTV-13高清" tvg-name="CCTV-13高清" tvg-logo="/scdmspic/20210804/20210804092044257.jpg" group-title="央视频道",CCTV-13高清
+http://10.10.10.1:4022/rtp/239.0.0.190:5140
+
+#EXTINF:-1 tvg-id="CCTV-14高清" tvg-name="CCTV-14高清" tvg-logo="/scdmspic/20201015/20201015040950866.jpg" group-title="央视频道",CCTV-14高清
+http://10.10.10.1:4022/rtp/239.0.0.21:5140
+
+#EXTINF:-1 tvg-id="CCTV-15高清" tvg-name="CCTV-15高清" tvg-logo="/scdmspic/20210428/20210428145240582.jpg" group-title="央视频道",CCTV-15高清
+http://10.10.10.1:4022/rtp/239.0.0.188:5140
+
+#EXTINF:-1 tvg-id="CCTV-17高清" tvg-name="CCTV-17高清" tvg-logo="/scdmspic/20201015/20201015041244872.jpg" group-title="央视频道",CCTV-17高清
+http://10.10.10.1:4022/rtp/239.0.0.152:5140
+
+#EXTINF:-1 tvg-id="CCTV-5+高清" tvg-name="CCTV-5+高清" tvg-logo="/scdmspic/20201015/20201015041126936.jpg" group-title="央视频道",CCTV-5+高清
+http://10.10.10.1:4022/rtp/239.0.0.22:5140
+
+#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="/scdmspic/20250403/20250403140640319.jpg" group-title="央视频道",CCTV-4K
+http://10.10.10.1:4022/rtp/239.0.0.184:5140
+
+#EXTINF:-1 tvg-id="CGTN-英语高清" tvg-name="CGTN-英语高清" tvg-logo="/scdmspic/20240906/20240906140051961.jpg" group-title="央视频道",CGTN-英语高清
+http://10.10.10.1:4022/rtp/239.0.0.49:5140
+
+#EXTINF:-1 tvg-id="四川卫视4K50P" tvg-name="四川卫视4K50P" tvg-logo="/scdmspic/20250926/20250926155755776.jpg" group-title="省台频道",四川卫视4K50P
+http://10.10.10.1:4022/rtp/239.0.0.203:5140
+
+#EXTINF:-1 tvg-id="四川卫视高清" tvg-name="四川卫视高清" tvg-logo="/scdmspic/20201015/20201015041409037.jpg" group-title="省台频道",四川卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.1:5140
+
+#EXTINF:-1 tvg-id="SCTV-2高清" tvg-name="SCTV-2高清" tvg-logo="/scdmspic/20201015/20201015041527535.jpg" group-title="省台频道",SCTV-2高清
+http://10.10.10.1:4022/rtp/239.0.0.2:5140
+
+#EXTINF:-1 tvg-id="SCTV-3高清" tvg-name="SCTV-3高清" tvg-logo="/scdmspic/20201015/20201015041939112.jpg" group-title="省台频道",SCTV-3高清
+http://10.10.10.1:4022/rtp/239.0.0.3:5140
+
+#EXTINF:-1 tvg-id="SCTV-4高清" tvg-name="SCTV-4高清" tvg-logo="/scdmspic/20201015/20201015042108262.jpg" group-title="省台频道",SCTV-4高清
+http://10.10.10.1:4022/rtp/239.0.0.4:5140
+
+#EXTINF:-1 tvg-id="SCTV-5高清" tvg-name="SCTV-5高清" tvg-logo="/scdmspic/20201015/20201015042233486.jpg" group-title="省台频道",SCTV-5高清
+http://10.10.10.1:4022/rtp/239.0.0.5:5140
+
+#EXTINF:-1 tvg-id="SCTV-6高清" tvg-name="SCTV-6高清" tvg-logo="/scdmspic/20201015/20201015042448415.jpg" group-title="省台频道",SCTV-6高清
+http://10.10.10.1:4022/rtp/239.0.0.6:5140
+
+#EXTINF:-1 tvg-id="SCTV-7高清" tvg-name="SCTV-7高清" tvg-logo="/scdmspic/20201015/20201015042623527.jpg" group-title="省台频道",SCTV-7高清
+http://10.10.10.1:4022/rtp/239.0.0.7:5140
+
+#EXTINF:-1 tvg-id="SCTV-科教高清" tvg-name="SCTV-科教高清" tvg-logo="/scdmspic/20210208/20210208090951662.jpg" group-title="省台频道",SCTV-科教高清
+http://10.10.10.1:4022/rtp/239.0.0.186:5140
+
+#EXTINF:-1 tvg-id="SCTV-9高清" tvg-name="SCTV-9高清" tvg-logo="/scdmspic/20201015/20201015042735531.jpg" group-title="省台频道",SCTV-9高清
+http://10.10.10.1:4022/rtp/239.0.0.8:5140
+
+#EXTINF:-1 tvg-id="峨眉电影高清" tvg-name="峨眉电影高清" tvg-logo="/scdmspic/20201015/20201015042850063.jpg" group-title="省台频道",峨眉电影高清
+http://10.10.10.1:4022/rtp/239.0.0.9:5140
+
+#EXTINF:-1 tvg-id="康巴卫视高清" tvg-name="康巴卫视高清" tvg-logo="/scdmspic/20201015/20201015043055651.jpg" group-title="省台频道",康巴卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.175:5140
+
+#EXTINF:-1 tvg-id="CHC家庭影院高清" tvg-name="CHC家庭影院高清" tvg-logo="/scdmspic/20240115/20240115150647018.jpg" group-title="特色频道",CHC家庭影院高清
+http://10.10.10.1:4022/rtp/239.0.0.23:5140
+
+#EXTINF:-1 tvg-id="CHC动作影院高清" tvg-name="CHC动作影院高清" tvg-logo="/scdmspic/20240115/20240115150729779.jpg" group-title="特色频道",CHC动作影院高清
+http://10.10.10.1:4022/rtp/239.0.0.24:5140
+
+#EXTINF:-1 tvg-id="CHC高清影院高清" tvg-name="CHC高清影院高清" tvg-logo="/scdmspic/20240430/20240430142613923.jpg" group-title="特色频道",CHC高清影院高清
+http://10.10.10.1:4022/rtp/239.0.0.25:5140
+
+#EXTINF:-1 tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="/scdmspic/20250403/20250403140622388.jpg" group-title="特色频道",欢笑剧场4K
+http://10.10.10.1:4022/rtp/239.0.0.201:5140
+
+#EXTINF:-1 tvg-id="精彩影视高清" tvg-name="精彩影视高清" tvg-logo="/scdmspic/20240115/20240115150824621.jpg" group-title="特色频道",精彩影视高清
+http://10.10.10.1:4022/rtp/239.0.0.26:5140
+
+#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="/scdmspic/20240115/20240115150844614.jpg" group-title="特色频道",老故事
+http://10.10.10.1:4022/rtp/239.0.0.27:5140
+
+#EXTINF:-1 tvg-id="动漫秀场高清" tvg-name="动漫秀场高清" tvg-logo="/scdmspic/20240115/20240115150909567.jpg" group-title="特色频道",动漫秀场高清
+http://10.10.10.1:4022/rtp/239.0.0.28:5140
+
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="/scdmspic/20240115/20240115150935764.jpg" group-title="特色频道",中学生
+http://10.10.10.1:4022/rtp/239.0.0.29:5140
+
+#EXTINF:-1 tvg-id="乐游高清" tvg-name="乐游高清" tvg-logo="/scdmspic/20240115/20240115152549416.jpg" group-title="特色频道",乐游高清
+http://10.10.10.1:4022/rtp/239.0.0.30:5140
+
+#EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="/scdmspic/20240116/20240116092924737.jpg" group-title="特色频道",书画
+http://10.10.10.1:4022/rtp/239.0.0.31:5140
+
+#EXTINF:-1 tvg-id="金色学堂高清" tvg-name="金色学堂高清" tvg-logo="/scdmspic/20240115/20240115150955944.jpg" group-title="特色频道",金色学堂高清
+http://10.10.10.1:4022/rtp/239.0.0.32:5140
+
+#EXTINF:-1 tvg-id="法治天地高清" tvg-name="法治天地高清" tvg-logo="/scdmspic/20240115/20240115151006052.jpg" group-title="特色频道",法治天地高清
+http://10.10.10.1:4022/rtp/239.0.0.33:5140
+
+#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="/scdmspic/20240116/20240116092858311.jpg" group-title="特色频道",财富天下
+http://10.10.10.1:4022/rtp/239.0.0.34:5140
+
+#EXTINF:-1 tvg-id="茶频道高清" tvg-name="茶频道高清" tvg-logo="/scdmspic/20240115/20240115151029370.jpg" group-title="特色频道",茶频道高清
+http://10.10.10.1:4022/rtp/239.0.0.36:5140
+
+#EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="/scdmspic/20240115/20240115151643507.jpg" group-title="特色频道",先锋乒羽
+http://10.10.10.1:4022/rtp/239.0.0.37:5140
+
+#EXTINF:-1 tvg-id="快乐垂钓高清" tvg-name="快乐垂钓高清" tvg-logo="/scdmspic/20240115/20240115151139254.jpg" group-title="特色频道",快乐垂钓高清
+http://10.10.10.1:4022/rtp/239.0.0.40:5140
+
+#EXTINF:-1 tvg-id="CCTV-1高清" tvg-name="CCTV-1高清" tvg-logo="/scdmspic/20201015/20201015034842988.jpg" group-title="新闻频道",CCTV-1高清
+http://10.10.10.1:4022/rtp/239.0.0.10:5140
+
+#EXTINF:-1 tvg-id="CCTV-13高清" tvg-name="CCTV-13高清" tvg-logo="/scdmspic/20210804/20210804092044257.jpg" group-title="新闻频道",CCTV-13高清
+http://10.10.10.1:4022/rtp/239.0.0.190:5140
+
+#EXTINF:-1 tvg-id="四川卫视高清" tvg-name="四川卫视高清" tvg-logo="/scdmspic/20201015/20201015041409037.jpg" group-title="新闻频道",四川卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.1:5140
+
+#EXTINF:-1 tvg-id="SCTV-4高清" tvg-name="SCTV-4高清" tvg-logo="/scdmspic/20201015/20201015042108262.jpg" group-title="新闻频道",SCTV-4高清
+http://10.10.10.1:4022/rtp/239.0.0.4:5140
+
+#EXTINF:-1 tvg-id="四川卫视4K50P" tvg-name="四川卫视4K50P" tvg-logo="/scdmspic/20250926/20250926155755776.jpg" group-title="卫视频道",四川卫视4K50P
+http://10.10.10.1:4022/rtp/239.0.0.203:5140
+
+#EXTINF:-1 tvg-id="湖南卫视4K50P" tvg-name="湖南卫视4K50P" tvg-logo="/scdmspic/20250926/20250926155814126.jpg" group-title="卫视频道",湖南卫视4K50P
+http://10.10.10.1:4022/rtp/239.0.0.204:5140
+
+#EXTINF:-1 tvg-id="江苏卫视4K50P" tvg-name="江苏卫视4K50P" tvg-logo="/scdmspic/20250926/20250926155909422.jpg" group-title="卫视频道",江苏卫视4K50P
+http://10.10.10.1:4022/rtp/239.0.0.205:5140
+
+#EXTINF:-1 tvg-id="浙江卫视4K50P" tvg-name="浙江卫视4K50P" tvg-logo="/scdmspic/20250926/20250926155917923.jpg" group-title="卫视频道",浙江卫视4K50P
+http://10.10.10.1:4022/rtp/239.0.0.206:5140
+
+#EXTINF:-1 tvg-id="东方卫视4K50P" tvg-name="东方卫视4K50P" tvg-logo="/scdmspic/20250926/20250926155925825.jpg" group-title="卫视频道",东方卫视4K50P
+http://10.10.10.1:4022/rtp/239.0.0.207:5140
+
+#EXTINF:-1 tvg-id="山东卫视4K50P" tvg-name="山东卫视4K50P" tvg-logo="/scdmspic/20250926/20250926160030612.jpg" group-title="卫视频道",山东卫视4K50P
+http://10.10.10.1:4022/rtp/239.0.0.208:5140
+
+#EXTINF:-1 tvg-id="四川卫视高清" tvg-name="四川卫视高清" tvg-logo="/scdmspic/20201015/20201015041409037.jpg" group-title="卫视频道",四川卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.1:5140
+
+#EXTINF:-1 tvg-id="湖南卫视高清" tvg-name="湖南卫视高清" tvg-logo="/scdmspic/20201015/20201015031859851.jpg" group-title="卫视频道",湖南卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.68:5140
+
+#EXTINF:-1 tvg-id="浙江卫视高清" tvg-name="浙江卫视高清" tvg-logo="/scdmspic/20201015/20201015033647823.jpg" group-title="卫视频道",浙江卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.61:5140
+
+#EXTINF:-1 tvg-id="江苏卫视高清" tvg-name="江苏卫视高清" tvg-logo="/scdmspic/20201015/20201015033820811.jpg" group-title="卫视频道",江苏卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.60:5140
+
+#EXTINF:-1 tvg-id="东方卫视高清" tvg-name="东方卫视高清" tvg-logo="/scdmspic/20201015/20201015034123660.jpg" group-title="卫视频道",东方卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.58:5140
+
+#EXTINF:-1 tvg-id="北京卫视高清" tvg-name="北京卫视高清" tvg-logo="/scdmspic/20201015/20201015034300471.jpg" group-title="卫视频道",北京卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.52:5140
+
+#EXTINF:-1 tvg-id="辽宁卫视高清" tvg-name="辽宁卫视高清" tvg-logo="/scdmspic/20201015/20201015034455064.jpg" group-title="卫视频道",辽宁卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.56:5140
+
+#EXTINF:-1 tvg-id="深圳卫视高清" tvg-name="深圳卫视高清" tvg-logo="/scdmspic/20201221/20201221152448567.jpg" group-title="卫视频道",深圳卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.71:5140
+
+#EXTINF:-1 tvg-id="天津卫视高清" tvg-name="天津卫视高清" tvg-logo="/scdmspic/20201015/20201015041343633.jpg" group-title="卫视频道",天津卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.54:5140
+
+#EXTINF:-1 tvg-id="山东卫视高清" tvg-name="山东卫视高清" tvg-logo="/scdmspic/20201015/20201015041417201.jpg" group-title="卫视频道",山东卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.66:5140
+
+#EXTINF:-1 tvg-id="广东卫视高清" tvg-name="广东卫视高清" tvg-logo="/scdmspic/20201015/20201015041534522.jpg" group-title="卫视频道",广东卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.70:5140
+
+#EXTINF:-1 tvg-id="湖北卫视高清" tvg-name="湖北卫视高清" tvg-logo="/scdmspic/20201015/20201015041652782.jpg" group-title="卫视频道",湖北卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.67:5140
+
+#EXTINF:-1 tvg-id="黑龙江卫视高清" tvg-name="黑龙江卫视高清" tvg-logo="/scdmspic/20201015/20201015041959676.jpg" group-title="卫视频道",黑龙江卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.57:5140
+
+#EXTINF:-1 tvg-id="安徽卫视高清" tvg-name="安徽卫视高清" tvg-logo="/scdmspic/20201015/20201015042117400.jpg" group-title="卫视频道",安徽卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.65:5140
+
+#EXTINF:-1 tvg-id="重庆卫视高清" tvg-name="重庆卫视高清" tvg-logo="/scdmspic/20201015/20201015042249912.jpg" group-title="卫视频道",重庆卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.72:5140
+
+#EXTINF:-1 tvg-id="贵州卫视高清" tvg-name="贵州卫视高清" tvg-logo="/scdmspic/20201015/20201015042410312.jpg" group-title="卫视频道",贵州卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.64:5140
+
+#EXTINF:-1 tvg-id="江西卫视高清" tvg-name="江西卫视高清" tvg-logo="/scdmspic/20201015/20201015042527798.jpg" group-title="卫视频道",江西卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.63:5140
+
+#EXTINF:-1 tvg-id="河北卫视高清" tvg-name="河北卫视高清" tvg-logo="/scdmspic/20201015/20201015042645169.jpg" group-title="卫视频道",河北卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.55:5140
+
+#EXTINF:-1 tvg-id="东南卫视高清" tvg-name="东南卫视高清" tvg-logo="/scdmspic/20201015/20201015042827268.jpg" group-title="卫视频道",东南卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.62:5140
+
+#EXTINF:-1 tvg-id="河南卫视高清" tvg-name="河南卫视高清" tvg-logo="/scdmspic/20210129/20210129143512288.jpg" group-title="卫视频道",河南卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.182:5140
+
+#EXTINF:-1 tvg-id="广西卫视高清" tvg-name="广西卫视高清" tvg-logo="/scdmspic/20210208/20210208090903581.jpg" group-title="卫视频道",广西卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.185:5140
+
+#EXTINF:-1 tvg-id="吉林卫视高清" tvg-name="吉林卫视高清" tvg-logo="/scdmspic/20210804/20210804092142734.jpg" group-title="卫视频道",吉林卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.191:5140
+
+#EXTINF:-1 tvg-id="甘肃卫视高清" tvg-name="甘肃卫视高清" tvg-logo="/scdmspic/20210804/20210804092123824.jpg" group-title="卫视频道",甘肃卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.192:5140
+
+#EXTINF:-1 tvg-id="云南卫视高清" tvg-name="云南卫视高清" tvg-logo="/scdmspic/20230919/20230919093053030.jpg" group-title="卫视频道",云南卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.74:5140
+
+#EXTINF:-1 tvg-id="陕西卫视高清" tvg-name="陕西卫视高清" tvg-logo="/scdmspic/20240524/20240524165559912.jpg" group-title="卫视频道",陕西卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.53:5140
+
+#EXTINF:-1 tvg-id="中国教育频道" tvg-name="中国教育频道" tvg-logo="/scdmspic/20201015/20201015045247477.jpg" group-title="卫视频道",中国教育频道
+http://10.10.10.1:4022/rtp/239.0.0.51:5140
+
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="/scdmspic/20211122/20211122093433374.jpg" group-title="卫视频道",厦门卫视
+http://10.10.10.1:4022/rtp/239.0.0.194:5140
+
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="/scdmspic/20211122/20211122093515611.jpg" group-title="卫视频道",三沙卫视
+http://10.10.10.1:4022/rtp/239.0.0.195:5140
+
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="/scdmspic/20201015/20201015004448480.jpg" group-title="卫视频道",山西卫视
+http://10.10.10.1:4022/rtp/239.0.0.78:5140
+
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="/scdmspic/20221213/20221213172744286.jpg" group-title="卫视频道",青海卫视
+http://10.10.10.1:4022/rtp/239.0.0.108:5140
+
+#EXTINF:-1 tvg-id="宁夏卫视高清" tvg-name="宁夏卫视高清" tvg-logo="/scdmspic/20250818/20250818174302770.jpg" group-title="卫视频道",宁夏卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.35:5140
+
+#EXTINF:-1 tvg-id="新疆卫视高清" tvg-name="新疆卫视高清" tvg-logo="/scdmspic/20250730/20250730113812097.jpg" group-title="卫视频道",新疆卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.38:5140
+
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="/scdmspic/20221213/20221213172541102.jpg" group-title="卫视频道",内蒙古卫视
+http://10.10.10.1:4022/rtp/239.0.0.79:5140
+
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="/scdmspic/20221213/20221213172609535.jpg" group-title="卫视频道",海南卫视
+http://10.10.10.1:4022/rtp/239.0.0.100:5140
+
+#EXTINF:-1 tvg-id="西藏卫视高清" tvg-name="西藏卫视高清" tvg-logo="/scdmspic/20250730/20250730113756355.jpg" group-title="卫视频道",西藏卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.39:5140
+
+#EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="/scdmspic/20221213/20221213172704326.jpg" group-title="卫视频道",安多卫视
+http://10.10.10.1:4022/rtp/239.0.0.109:5140
+
+#EXTINF:-1 tvg-id="兵团卫视高清" tvg-name="兵团卫视高清" tvg-logo="/scdmspic/20250730/20250730113842605.jpg" group-title="卫视频道",兵团卫视高清
+http://10.10.10.1:4022/rtp/239.0.0.41:5140
+
+#EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV-2" tvg-logo="/scdmspic/20220114/20220114102422627.jpg" group-title="卫视频道",CETV-2
+http://10.10.10.1:4022/rtp/239.0.0.196:5140
+
+#EXTINF:-1 tvg-id="CETV-4高清" tvg-name="CETV-4高清" tvg-logo="/scdmspic/20241014/20241014173553886.jpg" group-title="卫视频道",CETV-4高清
+http://10.10.10.1:4022/rtp/239.0.0.98:5140
+
+#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="/scdmspic/20220114/20220114102502284.jpg" group-title="卫视频道",山东教育
+http://10.10.10.1:4022/rtp/239.0.0.197:5140
+
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="/scdmspic/20230919/20230919093144509.jpg" group-title="卫视频道",延边卫视
+http://10.10.10.1:4022/rtp/239.0.0.76:5140
+
+#EXTINF:-1 tvg-id="北京卫视4K-25P" tvg-name="北京卫视4K-25P" tvg-logo="/scdmspic/20250403/20250403140659717.jpg" group-title="卫视频道",北京卫视4K-25P
+http://10.10.10.1:4022/rtp/239.0.0.198:5140
+
+#EXTINF:-1 tvg-id="深圳卫视4K-25P" tvg-name="深圳卫视4K-25P" tvg-logo="/scdmspic/20250627/20250627164748065.jpg" group-title="卫视频道",深圳卫视4K-25P
+http://10.10.10.1:4022/rtp/239.0.0.199:5140
+
+#EXTINF:-1 tvg-id="广东卫视4K-25P" tvg-name="广东卫视4K-25P" tvg-logo="/scdmspic/20250627/20250627164801247.jpg" group-title="卫视频道",广东卫视4K-25P
+http://10.10.10.1:4022/rtp/239.0.0.200:5140
+
+#EXTINF:-1 tvg-id="四川卫视4K50P" tvg-name="四川卫视4K50P" tvg-logo="/scdmspic/20250926/20250926155755776.jpg" group-title="超高清频道",四川卫视4K50P
+http://10.10.10.1:4022/rtp/239.0.0.203:5140
+
+#EXTINF:-1 tvg-id="湖南卫视4K50P" tvg-name="湖南卫视4K50P" tvg-logo="/scdmspic/20250926/20250926155814126.jpg" group-title="超高清频道",湖南卫视4K50P
+http://10.10.10.1:4022/rtp/239.0.0.204:5140
+
+#EXTINF:-1 tvg-id="江苏卫视4K50P" tvg-name="江苏卫视4K50P" tvg-logo="/scdmspic/20250926/20250926155909422.jpg" group-title="超高清频道",江苏卫视4K50P
+http://10.10.10.1:4022/rtp/239.0.0.205:5140
+
+#EXTINF:-1 tvg-id="浙江卫视4K50P" tvg-name="浙江卫视4K50P" tvg-logo="/scdmspic/20250926/20250926155917923.jpg" group-title="超高清频道",浙江卫视4K50P
+http://10.10.10.1:4022/rtp/239.0.0.206:5140
+
+#EXTINF:-1 tvg-id="东方卫视4K50P" tvg-name="东方卫视4K50P" tvg-logo="/scdmspic/20250926/20250926155925825.jpg" group-title="超高清频道",东方卫视4K50P
+http://10.10.10.1:4022/rtp/239.0.0.207:5140
+
+#EXTINF:-1 tvg-id="山东卫视4K50P" tvg-name="山东卫视4K50P" tvg-logo="/scdmspic/20250926/20250926160030612.jpg" group-title="超高清频道",山东卫视4K50P
+http://10.10.10.1:4022/rtp/239.0.0.208:5140
+
+#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="/scdmspic/20250403/20250403140640319.jpg" group-title="超高清频道",CCTV-4K
+http://10.10.10.1:4022/rtp/239.0.0.184:5140
+
+#EXTINF:-1 tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="/scdmspic/20250403/20250403140622388.jpg" group-title="超高清频道",欢笑剧场4K
+http://10.10.10.1:4022/rtp/239.0.0.201:5140
+
+#EXTINF:-1 tvg-id="北京卫视4K-25P" tvg-name="北京卫视4K-25P" tvg-logo="/scdmspic/20250403/20250403140659717.jpg" group-title="超高清频道",北京卫视4K-25P
+http://10.10.10.1:4022/rtp/239.0.0.198:5140
+
+#EXTINF:-1 tvg-id="深圳卫视4K-25P" tvg-name="深圳卫视4K-25P" tvg-logo="/scdmspic/20250627/20250627164748065.jpg" group-title="超高清频道",深圳卫视4K-25P
+http://10.10.10.1:4022/rtp/239.0.0.199:5140
+
+#EXTINF:-1 tvg-id="广东卫视4K-25P" tvg-name="广东卫视4K-25P" tvg-logo="/scdmspic/20250627/20250627164801247.jpg" group-title="超高清频道",广东卫视4K-25P
+http://10.10.10.1:4022/rtp/239.0.0.200:5140
+
