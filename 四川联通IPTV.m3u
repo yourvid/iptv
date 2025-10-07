@@ -459,11 +459,3 @@ http://10.10.10.1:4022/rtp/239.0.0.141:5140
 
 #EXTINF:-1 tvg-id="ABTV藏语" tvg-name="ABTV藏语" group-title="地方频道",ABTV藏语
 http://10.10.10.1:4022/rtp/239.0.0.142:5140
-
-
-
-#EXTINF:-1 tvg-id=124 tvg-name=124 group-title=全部,124
-http://10.10.10.1:4022/rtp/239.0.0.180:5140
-
-#EXTINF:-1 tvg-id=125 tvg-name=125 group-title=全部,125
-http://10.10.10.1:4022/rtp/239.0.0.181:5140
