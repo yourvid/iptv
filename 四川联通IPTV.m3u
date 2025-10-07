@@ -283,7 +283,7 @@ http://10.10.10.1:4022/rtp/239.0.0.77:5140
 #EXTINF:-1 tvg-id="CETV-1高清" tvg-name="CETV-1高清" group-title="特色频道",CETV-1高清
 http://10.10.10.1:4022/rtp/239.0.0.51:5140
 
-#EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV-2" group-title="卫视频道",CETV-2
+#EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV-2" group-title="特色频道",CETV-2
 http://10.10.10.1:4022/rtp/239.0.0.196:5140
 
 #EXTINF:-1 tvg-id="CETV-4高清" tvg-name="CETV-4高清" group-title="特色频道",CETV-4高清
