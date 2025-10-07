@@ -148,21 +148,6 @@ http://10.10.10.1:4022/rtp/239.0.0.41:5140
 #EXTINF:-1 tvg-id="西藏藏语频道" tvg-name="西藏藏语频道" group-title="卫视频道",西藏藏语频道
 http://10.10.10.1:4022/rtp/239.0.0.105:5140
 
-#EXTINF:-1 tvg-id="中国教育频道" tvg-name="中国教育频道" group-title="卫视频道",中国教育频道
-http://10.10.10.1:4022/rtp/239.0.0.51:5140
-
-#EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV-2" group-title="卫视频道",CETV-2
-http://10.10.10.1:4022/rtp/239.0.0.196:5140
-
-#EXTINF:-1 tvg-id="CETV-4高清" tvg-name="CETV-4高清" group-title="卫视频道",CETV-4高清
-http://10.10.10.1:4022/rtp/239.0.0.98:5140
-
-#EXTINF:-1 tvg-id="金鹰纪实高清" tvg-name="金鹰纪实高清" group-title="卫视频道",金鹰纪实高清
-http://10.10.10.1:4022/rtp/239.0.0.69:5140
-
-#EXTINF:-1 tvg-id="北京纪实科教高清" tvg-name="北京纪实科教高清" group-title="卫视频道",北京纪实科教高清
-http://10.10.10.1:4022/rtp/239.0.0.77:5140
-
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" group-title="卫视频道",厦门卫视
 http://10.10.10.1:4022/rtp/239.0.0.194:5140
 
@@ -256,20 +241,11 @@ http://10.10.10.1:4022/rtp/239.0.0.25:5140
 #EXTINF:-1 tvg-id="精彩影视高清" tvg-name="精彩影视高清" group-title="特色频道",精彩影视高清
 http://10.10.10.1:4022/rtp/239.0.0.26:5140
 
-#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" group-title="特色频道",老故事
-http://10.10.10.1:4022/rtp/239.0.0.27:5140
-
 #EXTINF:-1 tvg-id="动漫秀场高清" tvg-name="动漫秀场高清" group-title="特色频道",动漫秀场高清
 http://10.10.10.1:4022/rtp/239.0.0.28:5140
 
-#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" group-title="特色频道",中学生
-http://10.10.10.1:4022/rtp/239.0.0.29:5140
-
 #EXTINF:-1 tvg-id="乐游高清" tvg-name="乐游高清" group-title="特色频道",乐游高清
 http://10.10.10.1:4022/rtp/239.0.0.30:5140
-
-#EXTINF:-1 tvg-id="书画" tvg-name="书画" group-title="特色频道",书画
-http://10.10.10.1:4022/rtp/239.0.0.31:5140
 
 #EXTINF:-1 tvg-id="金色学堂高清" tvg-name="金色学堂高清" group-title="特色频道",金色学堂高清
 http://10.10.10.1:4022/rtp/239.0.0.32:5140
@@ -297,6 +273,30 @@ http://10.10.10.1:4022/rtp/239.0.0.75:5140
 
 #EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" group-title="特色频道",中国交通
 http://10.10.10.1:4022/rtp/239.0.0.143:5140
+
+#EXTINF:-1 tvg-id="金鹰纪实高清" tvg-name="金鹰纪实高清" group-title="特色频道",金鹰纪实高清
+http://10.10.10.1:4022/rtp/239.0.0.69:5140
+
+#EXTINF:-1 tvg-id="北京纪实科教高清" tvg-name="北京纪实科教高清" group-title="特色频道",北京纪实科教高清
+http://10.10.10.1:4022/rtp/239.0.0.77:5140
+
+#EXTINF:-1 tvg-id="CETV-1高清" tvg-name="CETV-1高清" group-title="特色频道",CETV-1高清
+http://10.10.10.1:4022/rtp/239.0.0.51:5140
+
+#EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV-2" group-title="卫视频道",CETV-2
+http://10.10.10.1:4022/rtp/239.0.0.196:5140
+
+#EXTINF:-1 tvg-id="CETV-4高清" tvg-name="CETV-4高清" group-title="特色频道",CETV-4高清
+http://10.10.10.1:4022/rtp/239.0.0.98:5140
+
+#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" group-title="特色频道",老故事
+http://10.10.10.1:4022/rtp/239.0.0.27:5140
+
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" group-title="特色频道",中学生
+http://10.10.10.1:4022/rtp/239.0.0.29:5140
+
+#EXTINF:-1 tvg-id="书画" tvg-name="书画" group-title="特色频道",书画
+http://10.10.10.1:4022/rtp/239.0.0.31:5140
 
 #EXTINF:-1 tvg-id="SCTV-2高清" tvg-name="SCTV-2高清" group-title="地方频道",SCTV-2高清
 http://10.10.10.1:4022/rtp/239.0.0.2:5140
