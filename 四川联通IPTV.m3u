@@ -151,6 +151,9 @@ http://10.10.10.1:4022/rtp/239.0.0.105:5140
 #EXTINF:-1 tvg-id="中国教育频道" tvg-name="中国教育频道" group-title="卫视频道",中国教育频道
 http://10.10.10.1:4022/rtp/239.0.0.51:5140
 
+#EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV-2" group-title="卫视频道",CETV-2
+http://10.10.10.1:4022/rtp/239.0.0.196:5140
+
 #EXTINF:-1 tvg-id="CETV-4高清" tvg-name="CETV-4高清" group-title="卫视频道",CETV-4高清
 http://10.10.10.1:4022/rtp/239.0.0.98:5140
 
@@ -180,9 +183,6 @@ http://10.10.10.1:4022/rtp/239.0.0.100:5140
 
 #EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" group-title="卫视频道",安多卫视
 http://10.10.10.1:4022/rtp/239.0.0.109:5140
-
-#EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV-2" group-title="卫视频道",CETV-2
-http://10.10.10.1:4022/rtp/239.0.0.196:5140
 
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" group-title="卫视频道",山东教育
 http://10.10.10.1:4022/rtp/239.0.0.197:5140
@@ -253,15 +253,6 @@ http://10.10.10.1:4022/rtp/239.0.0.24:5140
 #EXTINF:-1 tvg-id="CHC高清影院高清" tvg-name="CHC高清影院高清" group-title="特色频道",CHC高清影院高清
 http://10.10.10.1:4022/rtp/239.0.0.25:5140
 
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="特色频道",金鹰卡通
-http://10.10.10.1:4022/rtp/239.0.0.95:5140
-
-#EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" group-title="特色频道",卡酷动画
-http://10.10.10.1:4022/rtp/239.0.0.75:5140
-
-#EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" group-title="特色频道",中国交通
-http://10.10.10.1:4022/rtp/239.0.0.143:5140
-
 #EXTINF:-1 tvg-id="精彩影视高清" tvg-name="精彩影视高清" group-title="特色频道",精彩影视高清
 http://10.10.10.1:4022/rtp/239.0.0.26:5140
 
@@ -297,6 +288,15 @@ http://10.10.10.1:4022/rtp/239.0.0.37:5140
 
 #EXTINF:-1 tvg-id="快乐垂钓高清" tvg-name="快乐垂钓高清" group-title="特色频道",快乐垂钓高清
 http://10.10.10.1:4022/rtp/239.0.0.40:5140
+
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="特色频道",金鹰卡通
+http://10.10.10.1:4022/rtp/239.0.0.95:5140
+
+#EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" group-title="特色频道",卡酷动画
+http://10.10.10.1:4022/rtp/239.0.0.75:5140
+
+#EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" group-title="特色频道",中国交通
+http://10.10.10.1:4022/rtp/239.0.0.143:5140
 
 #EXTINF:-1 tvg-id="SCTV-2高清" tvg-name="SCTV-2高清" group-title="地方频道",SCTV-2高清
 http://10.10.10.1:4022/rtp/239.0.0.2:5140
