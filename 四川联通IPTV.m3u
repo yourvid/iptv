@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="测试1" tvg-name="测试1" group-title="全部",测试1
+http://10.10.10.1:4022/rtp/239.0.0.111:5140
+
 #EXTINF:-1 tvg-id="四川卫视4K50P" tvg-name="四川卫视4K50P" group-title="全部",四川卫视4K50P
 http://10.10.10.1:4022/rtp/239.0.0.203:5140
 
