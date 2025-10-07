@@ -1,0 +1,31 @@
+# M3U文件对比结果
+# 对比文件: iptvscanner.m3u vs 四川联通IPTV.m3u
+# 生成时间: 2025-10-07 22:18:47
+############################################################
+
+# 只在 iptvscanner.m3u 中的频道 (8 个)
+##################################################
+#EXTINF:-1 tvg-id=104 tvg-name=104 group-title=全部,104
+http://10.10.10.1:4022/rtp/239.0.0.135:5140
+
+#EXTINF:-1 tvg-id=108 tvg-name=108 group-title=全部,108
+http://10.10.10.1:4022/rtp/239.0.0.139:5140
+
+#EXTINF:-1 tvg-id=110 tvg-name=110 group-title=全部,110
+http://10.10.10.1:4022/rtp/239.0.0.141:5140
+
+#EXTINF:-1 tvg-id=111 tvg-name=111 group-title=全部,111
+http://10.10.10.1:4022/rtp/239.0.0.142:5140
+
+#EXTINF:-1 tvg-id=123 tvg-name=123 group-title=全部,123
+http://10.10.10.1:4022/rtp/239.0.0.178:5140
+
+#EXTINF:-1 tvg-id=124 tvg-name=124 group-title=全部,124
+http://10.10.10.1:4022/rtp/239.0.0.180:5140
+
+#EXTINF:-1 tvg-id=125 tvg-name=125 group-title=全部,125
+http://10.10.10.1:4022/rtp/239.0.0.181:5140
+
+#EXTINF:-1 tvg-id=70 tvg-name=70 group-title=全部,70
+http://10.10.10.1:4022/rtp/239.0.0.80:5140
+

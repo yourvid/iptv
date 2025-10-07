@@ -304,7 +304,7 @@ class MulticastStreamValidator:
                     # f.write(f"# {ip_addr}:{result['port']}\n")
                     # f.write(f"# 数据: {result['data_received']} 字节, "
                     #         f"响应: {result['response_time']}s\n")
-                    f.write(f"#EXTINF:-1 tvg-id={index} tvg-name={index} group-title=全部,{index}\n")
+                    f.write(f"#EXTINF:-1 tvg-id=\"{index}\" tvg-name=\"{index}\" group-title=\"全部\",{index}\n")
                     f.write(f"{result['url']}\n\n")
                     index += 1
 
