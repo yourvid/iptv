@@ -30,7 +30,6 @@ http://10.10.10.1:4022/rtp/239.0.0.18:5140
 http://10.10.10.1:4022/rtp/239.0.0.19:5140
 
 #EXTINF:-1 tvg-id="CCTV-11高清" tvg-name="CCTV-11高清" group-title="央视频道",CCTV-11高清
-http://10.10.10.1:4022/rtp/239.0.0.180:5140
 http://10.10.10.1:4022/rtp/239.0.0.187:5140
 
 #EXTINF:-1 tvg-id="CCTV-12高清" tvg-name="CCTV-12高清" group-title="央视频道",CCTV-12高清
@@ -43,7 +42,6 @@ http://10.10.10.1:4022/rtp/239.0.0.190:5140
 http://10.10.10.1:4022/rtp/239.0.0.21:5140
 
 #EXTINF:-1 tvg-id="CCTV-15高清" tvg-name="CCTV-15高清" group-title="央视频道",CCTV-15高清
-http://10.10.10.1:4022/rtp/239.0.0.181:5140
 http://10.10.10.1:4022/rtp/239.0.0.188:5140
 
 #EXTINF:-1 tvg-id="CCTV-17高清" tvg-name="CCTV-17高清" group-title="央视频道",CCTV-17高清
@@ -177,6 +175,7 @@ http://10.10.10.1:4022/rtp/239.0.0.76:5140
 
 #EXTINF:-1 tvg-id="四川卫视4K 50P" tvg-name="四川卫视4K 50P" group-title="超高清频道",四川卫视4K 50P
 http://10.10.10.1:4022/rtp/239.0.0.203:5140
+http://10.10.10.1:4022/rtp/239.0.0.180:5140
 
 #EXTINF:-1 tvg-id="湖南卫视4K 50P" tvg-name="湖南卫视4K 50P" group-title="超高清频道",湖南卫视4K 50P
 http://10.10.10.1:4022/rtp/239.0.0.204:5140
@@ -193,9 +192,6 @@ http://10.10.10.1:4022/rtp/239.0.0.207:5140
 #EXTINF:-1 tvg-id="山东卫视4K 50P" tvg-name="山东卫视4K 50P" group-title="超高清频道",山东卫视4K 50P
 http://10.10.10.1:4022/rtp/239.0.0.208:5140
 
-#EXTINF:-1 tvg-id="CCTV-4K 50P" tvg-name="CCTV-4K 50P" group-title="超高清频道",CCTV-4K 50P
-http://10.10.10.1:4022/rtp/239.0.0.178:5140
-
 #EXTINF:-1 tvg-id="北京卫视4K 25P" tvg-name="北京卫视4K 25P" group-title="超高清频道",北京卫视4K 25P
 http://10.10.10.1:4022/rtp/239.0.0.198:5140
 
@@ -207,6 +203,7 @@ http://10.10.10.1:4022/rtp/239.0.0.200:5140
 
 #EXTINF:-1 tvg-id="四川卫视4K 25P" tvg-name="四川卫视4K 25P" group-title="超高清频道",四川卫视4K 25P
 http://10.10.10.1:4022/rtp/239.0.0.202:5140
+http://10.10.10.1:4022/rtp/239.0.0.178:5140
 
 #EXTINF:-1 tvg-id="湖南卫视4K 25P" tvg-name="湖南卫视4K 25P" group-title="超高清频道",湖南卫视4K 25P
 http://10.10.10.1:4022/rtp/239.0.0.209:5140

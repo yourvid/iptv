@@ -1,7 +1,7 @@
 # 组播节目扫描结果 - 严格验证
-# 扫描时间: 2025-10-07 22:51:02
+# 扫描时间: 2025-10-14 13:59:35
 # 基础URL: http://10.10.10.1:4022/rtp/
-# 发现 155 个有效流
+# 发现 154 个有效流
 # 按IP地址和端口排序
 ##################################################
 #EXTM3U
@@ -378,95 +378,92 @@ http://10.10.10.1:4022/rtp/239.0.0.178:5140
 http://10.10.10.1:4022/rtp/239.0.0.180:5140
 
 #EXTINF:-1 tvg-id="125" tvg-name="125" group-title="全部",125
-http://10.10.10.1:4022/rtp/239.0.0.181:5140
-
-#EXTINF:-1 tvg-id="126" tvg-name="126" group-title="全部",126
 http://10.10.10.1:4022/rtp/239.0.0.182:5140
 
-#EXTINF:-1 tvg-id="127" tvg-name="127" group-title="全部",127
+#EXTINF:-1 tvg-id="126" tvg-name="126" group-title="全部",126
 http://10.10.10.1:4022/rtp/239.0.0.184:5140
 
-#EXTINF:-1 tvg-id="128" tvg-name="128" group-title="全部",128
+#EXTINF:-1 tvg-id="127" tvg-name="127" group-title="全部",127
 http://10.10.10.1:4022/rtp/239.0.0.185:5140
 
-#EXTINF:-1 tvg-id="129" tvg-name="129" group-title="全部",129
+#EXTINF:-1 tvg-id="128" tvg-name="128" group-title="全部",128
 http://10.10.10.1:4022/rtp/239.0.0.186:5140
 
-#EXTINF:-1 tvg-id="130" tvg-name="130" group-title="全部",130
+#EXTINF:-1 tvg-id="129" tvg-name="129" group-title="全部",129
 http://10.10.10.1:4022/rtp/239.0.0.187:5140
 
-#EXTINF:-1 tvg-id="131" tvg-name="131" group-title="全部",131
+#EXTINF:-1 tvg-id="130" tvg-name="130" group-title="全部",130
 http://10.10.10.1:4022/rtp/239.0.0.188:5140
 
-#EXTINF:-1 tvg-id="132" tvg-name="132" group-title="全部",132
+#EXTINF:-1 tvg-id="131" tvg-name="131" group-title="全部",131
 http://10.10.10.1:4022/rtp/239.0.0.190:5140
 
-#EXTINF:-1 tvg-id="133" tvg-name="133" group-title="全部",133
+#EXTINF:-1 tvg-id="132" tvg-name="132" group-title="全部",132
 http://10.10.10.1:4022/rtp/239.0.0.191:5140
 
-#EXTINF:-1 tvg-id="134" tvg-name="134" group-title="全部",134
+#EXTINF:-1 tvg-id="133" tvg-name="133" group-title="全部",133
 http://10.10.10.1:4022/rtp/239.0.0.192:5140
 
-#EXTINF:-1 tvg-id="135" tvg-name="135" group-title="全部",135
+#EXTINF:-1 tvg-id="134" tvg-name="134" group-title="全部",134
 http://10.10.10.1:4022/rtp/239.0.0.194:5140
 
-#EXTINF:-1 tvg-id="136" tvg-name="136" group-title="全部",136
+#EXTINF:-1 tvg-id="135" tvg-name="135" group-title="全部",135
 http://10.10.10.1:4022/rtp/239.0.0.195:5140
 
-#EXTINF:-1 tvg-id="137" tvg-name="137" group-title="全部",137
+#EXTINF:-1 tvg-id="136" tvg-name="136" group-title="全部",136
 http://10.10.10.1:4022/rtp/239.0.0.196:5140
 
-#EXTINF:-1 tvg-id="138" tvg-name="138" group-title="全部",138
+#EXTINF:-1 tvg-id="137" tvg-name="137" group-title="全部",137
 http://10.10.10.1:4022/rtp/239.0.0.197:5140
 
-#EXTINF:-1 tvg-id="139" tvg-name="139" group-title="全部",139
+#EXTINF:-1 tvg-id="138" tvg-name="138" group-title="全部",138
 http://10.10.10.1:4022/rtp/239.0.0.198:5140
 
-#EXTINF:-1 tvg-id="140" tvg-name="140" group-title="全部",140
+#EXTINF:-1 tvg-id="139" tvg-name="139" group-title="全部",139
 http://10.10.10.1:4022/rtp/239.0.0.199:5140
 
-#EXTINF:-1 tvg-id="141" tvg-name="141" group-title="全部",141
+#EXTINF:-1 tvg-id="140" tvg-name="140" group-title="全部",140
 http://10.10.10.1:4022/rtp/239.0.0.200:5140
 
-#EXTINF:-1 tvg-id="142" tvg-name="142" group-title="全部",142
+#EXTINF:-1 tvg-id="141" tvg-name="141" group-title="全部",141
 http://10.10.10.1:4022/rtp/239.0.0.201:5140
 
-#EXTINF:-1 tvg-id="143" tvg-name="143" group-title="全部",143
+#EXTINF:-1 tvg-id="142" tvg-name="142" group-title="全部",142
 http://10.10.10.1:4022/rtp/239.0.0.202:5140
 
-#EXTINF:-1 tvg-id="144" tvg-name="144" group-title="全部",144
+#EXTINF:-1 tvg-id="143" tvg-name="143" group-title="全部",143
 http://10.10.10.1:4022/rtp/239.0.0.203:5140
 
-#EXTINF:-1 tvg-id="145" tvg-name="145" group-title="全部",145
+#EXTINF:-1 tvg-id="144" tvg-name="144" group-title="全部",144
 http://10.10.10.1:4022/rtp/239.0.0.204:5140
 
-#EXTINF:-1 tvg-id="146" tvg-name="146" group-title="全部",146
+#EXTINF:-1 tvg-id="145" tvg-name="145" group-title="全部",145
 http://10.10.10.1:4022/rtp/239.0.0.205:5140
 
-#EXTINF:-1 tvg-id="147" tvg-name="147" group-title="全部",147
+#EXTINF:-1 tvg-id="146" tvg-name="146" group-title="全部",146
 http://10.10.10.1:4022/rtp/239.0.0.206:5140
 
-#EXTINF:-1 tvg-id="148" tvg-name="148" group-title="全部",148
+#EXTINF:-1 tvg-id="147" tvg-name="147" group-title="全部",147
 http://10.10.10.1:4022/rtp/239.0.0.207:5140
 
-#EXTINF:-1 tvg-id="149" tvg-name="149" group-title="全部",149
+#EXTINF:-1 tvg-id="148" tvg-name="148" group-title="全部",148
 http://10.10.10.1:4022/rtp/239.0.0.208:5140
 
-#EXTINF:-1 tvg-id="150" tvg-name="150" group-title="全部",150
+#EXTINF:-1 tvg-id="149" tvg-name="149" group-title="全部",149
 http://10.10.10.1:4022/rtp/239.0.0.209:5140
 
-#EXTINF:-1 tvg-id="151" tvg-name="151" group-title="全部",151
+#EXTINF:-1 tvg-id="150" tvg-name="150" group-title="全部",150
 http://10.10.10.1:4022/rtp/239.0.0.210:5140
 
-#EXTINF:-1 tvg-id="152" tvg-name="152" group-title="全部",152
+#EXTINF:-1 tvg-id="151" tvg-name="151" group-title="全部",151
 http://10.10.10.1:4022/rtp/239.0.0.211:5140
 
-#EXTINF:-1 tvg-id="153" tvg-name="153" group-title="全部",153
+#EXTINF:-1 tvg-id="152" tvg-name="152" group-title="全部",152
 http://10.10.10.1:4022/rtp/239.0.0.212:5140
 
-#EXTINF:-1 tvg-id="154" tvg-name="154" group-title="全部",154
+#EXTINF:-1 tvg-id="153" tvg-name="153" group-title="全部",153
 http://10.10.10.1:4022/rtp/239.0.0.213:5140
 
-#EXTINF:-1 tvg-id="155" tvg-name="155" group-title="全部",155
+#EXTINF:-1 tvg-id="154" tvg-name="154" group-title="全部",154
 http://10.10.10.1:4022/rtp/239.0.0.253:5140
 
