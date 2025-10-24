@@ -236,8 +236,8 @@ def main():
         '''
     )
 
-    parser.add_argument('file1', help='第一个M3U文件路径',default="iptvscanner.m3u")
-    parser.add_argument('file2', help='第二个M3U文件路径',default='四川联通IPTV.m3u')
+    parser.add_argument('--file1', help='第一个M3U文件路径',default="iptvscanner.m3u")
+    parser.add_argument('--file2', help='第二个M3U文件路径',default='四川联通IPTV.m3u')
     parser.add_argument('--output', '-o', help='输出结果文件路径',default="diff_result.txt")
 
     args = parser.parse_args()
