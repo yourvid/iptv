@@ -13,7 +13,7 @@ import requests
 
 
 class MulticastStreamValidator:
-    def __init__(self, base_url="http://192.168.5.2:4022/rtp/", timeout=8, max_workers=8):
+    def __init__(self, base_url="http://192.168.5.2:5140/rtp/", timeout=8, max_workers=8):
         self.base_url = base_url.rstrip('/') + '/'
         self.timeout = timeout
         self.max_workers = max_workers
@@ -316,7 +316,7 @@ class MulticastStreamValidator:
 def main():
     parser = argparse.ArgumentParser(description='组播节目扫描器 - 严格验证版')
 
-    parser.add_argument('--base-url', default='http://192.168.5.2:4022/rtp/',
+    parser.add_argument('--base-url', default='http://192.168.5.2:5140/rtp/',
                         help='组播转单播的基础URL')
     parser.add_argument('--start', default='239.0.0.1',
                         help='起始组播地址')
