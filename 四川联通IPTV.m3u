@@ -189,7 +189,7 @@ http://192.168.5.2:5140/rtp/239.0.0.207:5140
 #EXTINF:-1 tvg-id="深圳卫视4K 50P" tvg-name="深圳卫视4K 50P" group-title="超高清频道",深圳卫视4K 50P
 http://192.168.5.2:5140/rtp/239.0.0.215:5140
 
-#EXTINF:-1 tvg-id="广东卫视4K 50p" tvg-name="广东卫视4K 50p" group-title="超高清频道",广东卫视4K 50p
+#EXTINF:-1 tvg-id="广东卫视4K 50P" tvg-name="广东卫视4K 50P" group-title="超高清频道",广东卫视4K 50P
 http://192.168.5.2:5140/rtp/239.0.0.216:5140
 
 #EXTINF:-1 tvg-id="山东卫视4K 50P" tvg-name="山东卫视4K 50P" group-title="超高清频道",山东卫视4K 50P
