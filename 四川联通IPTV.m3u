@@ -50,9 +50,6 @@ http://192.168.5.2:5140/rtp/239.0.0.152:5140
 #EXTINF:-1 tvg-id="CCTV-5+高清" tvg-name="CCTV-5+高清" group-title="央视频道",CCTV-5+高清
 http://192.168.5.2:5140/rtp/239.0.0.22:5140
 
-#EXTINF:-1 tvg-id="CGTN-英语高清" tvg-name="CGTN-英语高清" group-title="央视频道",CGTN-英语高清
-http://192.168.5.2:5140/rtp/239.0.0.49:5140
-
 #EXTINF:-1 tvg-id="四川卫视高清" tvg-name="四川卫视高清" group-title="卫视频道",四川卫视高清
 http://192.168.5.2:5140/rtp/239.0.0.1:5140
 
@@ -244,6 +241,24 @@ http://192.168.5.2:5140/rtp/239.0.0.24:5140
 #EXTINF:-1 tvg-id="CHC高清影院高清" tvg-name="CHC高清影院高清" group-title="特色频道",CHC高清影院高清
 http://192.168.5.2:5140/rtp/239.0.0.25:5140
 
+#EXTINF:-1 tvg-id="CGTN-记录片高清" tvg-name="CGTN-记录片高清" group-title="特色频道",CGTN-记录片高清
+http://192.168.5.2:5140/rtp/239.0.0.44:5140
+
+#EXTINF:-1 tvg-id="CGTN-西班牙语高清" tvg-name="CGTN-西班牙语高清" group-title="特色频道",CGTN-西班牙语高清
+http://192.168.5.2:5140/rtp/239.0.0.45:5140
+
+#EXTINF:-1 tvg-id="CGTN-法语高清" tvg-name="CGTN-法语高清" group-title="特色频道",CGTN-法语高清
+http://192.168.5.2:5140/rtp/239.0.0.46:5140
+
+#EXTINF:-1 tvg-id="CGTN-阿拉伯语高清" tvg-name="CGTN-阿拉伯语高清" group-title="特色频道",CGTN-阿拉伯语高清
+http://192.168.5.2:5140/rtp/239.0.0.47:5140
+
+#EXTINF:-1 tvg-id="CGTN-俄语高清" tvg-name="CGTN-俄语高清" group-title="特色频道",CGTN-俄语高清
+http://192.168.5.2:5140/rtp/239.0.0.48:5140
+
+#EXTINF:-1 tvg-id="CGTN-英语高清" tvg-name="CGTN-英语高清" group-title="特色频道",CGTN-英语高清
+http://192.168.5.2:5140/rtp/239.0.0.49:5140
+
 #EXTINF:-1 tvg-id="精彩影视高清" tvg-name="精彩影视高清" group-title="特色频道",精彩影视高清
 http://192.168.5.2:5140/rtp/239.0.0.26:5140
 
@@ -294,9 +309,6 @@ http://192.168.5.2:5140/rtp/239.0.0.29:5140
 
 #EXTINF:-1 tvg-id="书画" tvg-name="书画" group-title="特色频道",书画
 http://192.168.5.2:5140/rtp/239.0.0.31:5140
-
-#EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" group-title="特色频道",先锋乒羽
-http://192.168.5.2:5140/rtp/239.0.0.37:5140
 
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" group-title="特色频道",财富天下
 http://192.168.5.2:5140/rtp/239.0.0.34:5140
@@ -460,7 +472,7 @@ http://192.168.5.2:5140/rtp/239.0.0.80:5140
 #EXTINF:-1 tvg-id="甘孜综合" tvg-name="甘孜综合" group-title="地方频道",甘孜综合
 http://192.168.5.2:5140/rtp/239.0.0.135:5140
 
-#EXTINF:-1 tvg-id="阿坝" tvg-name="阿坝" group-title="地方频道",阿坝
+#EXTINF:-1 tvg-id="阿坝汉语" tvg-name="阿坝汉语" group-title="地方频道",阿坝汉语
 http://192.168.5.2:5140/rtp/239.0.0.141:5140
 
 #EXTINF:-1 tvg-id="阿坝藏语" tvg-name="阿坝藏语" group-title="地方频道",阿坝藏语
