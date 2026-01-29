@@ -282,7 +282,7 @@ class MulticastStreamValidator:
             with open(filename, 'w', encoding='utf-8') as f:
                 f.write("# 组播节目扫描结果 - 严格验证\n")
                 f.write(f"# 扫描时间: {time.strftime('%Y-%m-%d %H:%M:%S')}\n")
-                f.write(f"# 基础URL: {self.base_url}\n")
+                # f.write(f"# 基础URL: {self.base_url}\n")
                 f.write(f"# 发现 {len(results)} 个有效流\n")
                 f.write("# 按IP地址和端口排序\n")
                 f.write("#" * 50 + "\n")
