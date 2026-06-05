@@ -227,7 +227,7 @@ http://192.168.5.2:5140/rtp/239.0.0.213:5140
 #EXTINF:-1 tvg-id="CCTV-4K 25P" tvg-name="CCTV-4K 25P" group-title="超高清频道",CCTV-4K 25P
 http://192.168.5.2:5140/rtp/239.0.0.184:5140
 
-#EXTINF:-1 tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" group-title="超高清频道",欢笑剧场4K
+#EXTINF:-1 tvg-id="多彩文体4K" tvg-name="多彩文体4K" group-title="超高清频道",多彩文体4K
 http://192.168.5.2:5140/rtp/239.0.0.201:5140
 
 #EXTINF:-1 tvg-id="CHC家庭影院高清" tvg-name="CHC家庭影院高清" group-title="特色频道",CHC家庭影院高清
