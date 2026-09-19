@@ -196,6 +196,9 @@ http://192.168.5.2:5140/rtp/239.0.0.208:5140
 #EXTINF:-1 tvg-id="CCTV4K 50P" tvg-name="CCTV4K" group-title="超高清频道",CCTV4K 50P
 http://192.168.5.2:5140/rtp/239.0.0.214:5140
 
+#EXTINF:-1 tvg-id="CCTV16 4K50P" tvg-name="CCTV16" group-title="超高清频道",CCTV16 4K50P
+http://192.168.5.2:5140/rtp/239.0.0.218:5140
+
 #EXTINF:-1 tvg-id="北京卫视超高清 4K25P" tvg-name="北京卫视" group-title="超高清频道",北京卫视超高清 4K25P
 http://192.168.5.2:5140/rtp/239.0.0.198:5140
 
@@ -226,6 +229,9 @@ http://192.168.5.2:5140/rtp/239.0.0.213:5140
 
 #EXTINF:-1 tvg-id="CCTV-4K 25P" tvg-name="CCTV-4K" group-title="超高清频道",CCTV-4K 25P
 http://192.168.5.2:5140/rtp/239.0.0.184:5140
+
+#EXTINF:-1 tvg-id="CCTV16 4K25P" tvg-name="CCTV16" group-title="超高清频道",CCTV16 4K25P
+http://192.168.5.2:5140/rtp/239.0.0.217:5140
 
 #EXTINF:-1 tvg-id="多彩文体4K" tvg-name="多彩文体4K" group-title="超高清频道",多彩文体4K
 http://192.168.5.2:5140/rtp/239.0.0.201:5140
