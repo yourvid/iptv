@@ -181,7 +181,7 @@ http://192.168.5.2:5140/rtp/239.0.0.205:5140
 #EXTINF:-1 tvg-id="浙江卫视超高清 4K50P" tvg-name="浙江卫视" group-title="超高清频道",浙江卫视超高清 4K50P
 http://192.168.5.2:5140/rtp/239.0.0.206:5140
 
-#EXTINF:-1 tvg-id="东方卫视超高清 4K50P" tvg-name="东方卫视超" group-title="超高清频道",东方卫视超高清 4K50P
+#EXTINF:-1 tvg-id="东方卫视超高清 4K50P" tvg-name="东方卫视" group-title="超高清频道",东方卫视超高清 4K50P
 http://192.168.5.2:5140/rtp/239.0.0.207:5140
 
 #EXTINF:-1 tvg-id="深圳卫视超高清 4K50P" tvg-name="深圳卫视" group-title="超高清频道",深圳卫视超高清 4K50P
@@ -245,7 +245,7 @@ http://192.168.5.2:5140/rtp/239.0.0.24:5140
 #EXTINF:-1 tvg-id="CHC影迷电影高清" tvg-name="CHC影迷电影高清" group-title="特色频道",CHC影迷电影高清
 http://192.168.5.2:5140/rtp/239.0.0.25:5140
 
-#EXTINF:-1 tvg-id="CGTN-记录片高清" tvg-name="CGTN-记录片高清" group-title="特色频道",CGTN-记录片高清
+#EXTINF:-1 tvg-id="CGTN-纪录片高清" tvg-name="CGTN-纪录片高清" group-title="特色频道",CGTN-纪录片高清
 http://192.168.5.2:5140/rtp/239.0.0.44:5140
 
 #EXTINF:-1 tvg-id="CGTN-西班牙语高清" tvg-name="CGTN-西班牙语高清" group-title="特色频道",CGTN-西班牙语高清
