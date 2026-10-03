@@ -227,7 +227,7 @@ http://192.168.5.2:5140/rtp/239.0.0.200:5140
 #EXTINF:-1 tvg-id="山东卫视超高清 4K25P" tvg-name="山东卫视" group-title="超高清频道",山东卫视超高清 4K25P
 http://192.168.5.2:5140/rtp/239.0.0.213:5140
 
-#EXTINF:-1 tvg-id="CCTV-4K 25P" tvg-name="CCTV-4K" group-title="超高清频道",CCTV-4K 25P
+#EXTINF:-1 tvg-id="CCTV4K 25P" tvg-name="CCTV4K" group-title="超高清频道",CCTV4K 25P
 http://192.168.5.2:5140/rtp/239.0.0.184:5140
 
 #EXTINF:-1 tvg-id="CCTV16 4K25P" tvg-name="CCTV16" group-title="超高清频道",CCTV16 4K25P
